@@ -2,8 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+dogs-vs-cats/
+dog cat/
 # C extensions
+
 *.so
 
 # Distribution / packaging
