@@ -30,7 +30,7 @@ To run the **Flask App**
   python app.py
 ```
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 
 # Dockerizing Application
 
@@ -38,7 +38,7 @@ To run the **Flask App**
   docker build -t appname:latest .
   docker run -p 8080:8080 appname:latest
 ```
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 
 # Deployment
 
@@ -70,4 +70,4 @@ AWS_ECR_LOGIN_URI = demo>> 566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
 ECR_REPOSITORY_NAME = demo>> simple-app
 ```
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
