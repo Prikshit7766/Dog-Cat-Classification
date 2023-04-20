@@ -15,7 +15,6 @@ class ClientApp:
         self.filename = "inputImage.jpg"
         self.classifier = DogCat(self.filename)
 
-
         
 @app.route("/", methods=['GET'])
 @cross_origin()
