@@ -16,6 +16,7 @@ class ClientApp:
         self.classifier = DogCat(self.filename)
 
 
+        
 @app.route("/", methods=['GET'])
 @cross_origin()
 def home():
